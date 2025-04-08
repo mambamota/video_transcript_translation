@@ -26,7 +26,7 @@ This application translates the audio of a video into a target language, generat
   - `edge-tts`
   - `whisper`
   - `nest-asyncio`
-  - `ffmpeg` (must be installed and accessible in the system PATH)
+  - `ffmpeg` (must be installed manually (https://ffmpeg.org/download.html) and accessible in the system PATH)
 
 ---
 
@@ -34,5 +34,5 @@ This application translates the audio of a video into a target language, generat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/video-translator.git
-   cd video-translator
+   git clone https://github.com/mambamota/video_transcript_translation.git
+   cd video_transcript_translation
